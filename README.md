@@ -16,4 +16,4 @@
 
 5. Screenshots / Demo ::
     Shows what hte dashboard looks like
-    Example : ![Dashboard Preview](https://github.com/lokeshmaha0903alt/Dashboard1/blob/main/Power%20BI%20Dashboard.png)
+    Example : ![Dashboard Preview](https://github.com/lokeshmaha0903-alt/Dashboard1/blob/402eaedce29a7f1f47d4e63c42f7fe69098a9456/Power%20BI%20Dashboard.png)
